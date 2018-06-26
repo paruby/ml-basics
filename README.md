@@ -15,6 +15,8 @@ This work is not yet polished - pull requests with improvements or extensions ar
 * Principal component analysis (dimensionality reduction)
 * Gaussian Mixture Models and the Expectation-Maximisaion EM algorithm
 
+![](https://raw.githubusercontent.com/paruby/ml-basics/master/pic/k-means.png)
+
 ### Linear Regression, K-fold Cross Validation, Gaussian Process Regression and Logistic Regression.ipynb
 
 * Least squares linear regression
@@ -26,9 +28,13 @@ This work is not yet polished - pull requests with improvements or extensions ar
 * Multiclass logistic regression <- trivial case of neural network classification
 * Backpropogation (an essential part of how neural networks are trained)
 
+![](https://raw.githubusercontent.com/paruby/ml-basics/master/pic/gp-regression.png)
+
 ### Statistical Hypothesis Testing
 
 (Note: this is a recap of statistical hypothesis testing *using kernels*, and ignores almost the entirety of the statistical hypothesis testing literature.)
 
 * Maximum Mean Discrepency (MMD): do X and Y have the same distribution?
 * Hilbert-Schmidt Independence Criterion (HSIC): are X and Y independent?
+
+![](https://raw.githubusercontent.com/paruby/ml-basics/master/pic/hypothesis-testing.png)
